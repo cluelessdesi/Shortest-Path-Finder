@@ -1,2 +1,2 @@
-# git-workshop
-demo workshop for sparkhacks '24
+# Shortest Path Finder
+
